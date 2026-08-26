@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "description": {
+      "text": "Радио джаз",
+      "color": "red",
+      "extra": [
+        {
+          "text": "куфыфвыа",
+          "color": "gray"
+        }
+      ]
+    },
+    "pack_format": 86,
+    "min_format": [1, 1],
+    "max_format": [666, 666],
+    "supported_formats": [1, 666]
+  }
+}
