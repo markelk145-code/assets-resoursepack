@@ -1,0 +1,200 @@
+{
+    "record.11": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/11",
+                "stream": true
+            }
+        ]
+    },
+    "record.13": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/13",
+                "stream": true
+            }
+        ]
+    },
+    "record.5": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/5",
+                "stream": true
+            }
+        ]
+    },
+    "record.blocks": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/blocks",
+                "stream": true
+            }
+        ]
+    },
+    "record.cat": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/cat",
+                "stream": true
+            }
+        ]
+    },
+    "record.chirp": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/chirp",
+                "stream": true
+            }
+        ]
+    },
+    "record.far": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/far",
+                "stream": true
+            }
+        ]
+    },
+    "record.mall": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/mall",
+                "stream": true
+            }
+        ]
+    },
+    "record.mellohi": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/mellohi",
+                "stream": true
+            }
+        ]
+    },
+    "record.otherside": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/otherside",
+                "stream": true
+            }
+        ]
+    },
+    "record.pigstep": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/pigstep",
+                "stream": true
+            }
+        ]
+    },
+    "record.relic": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/relic",
+                "stream": true
+            }
+        ]
+    },
+    "record.stal": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/stal",
+                "stream": true
+            }
+        ]
+    },
+    "record.strad": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/strad",
+                "stream": true
+            }
+        ]
+    },
+    "record.wait": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/wait",
+                "stream": true
+            }
+        ]
+    },
+    "record.ward": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/ward",
+                "stream": true
+            }
+        ]
+    },
+    "record.precipice": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/precipice",
+                "stream": true
+            }
+        ]
+    },
+    "record.creator": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/creator",
+                "stream": true
+            }
+        ]
+    },
+    "record.creator_music_box": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/creator_music_box",
+                "stream": true
+            }
+        ]
+    },
+    "record.tears": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/tears",
+                "stream": true
+            }
+        ]
+    },
+    "record.lava_chicken": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/lava_chicken",
+                "stream": true
+            }
+        ]
+    },
+    "record.bounce": {
+        "category": "record",
+        "sounds": [
+            {
+                "name": "records/bounce",
+                "stream": true
+            }
+        ]
+    }
+}
